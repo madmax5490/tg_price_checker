@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES">
+      <option name="ignoredPackages">
+        <list>
+          <option value="alembic" />
+          <option value="bcrypt" />
+          <option value="certifi" />
+          <option value="click" />
+          <option value="dnspython" />
+          <option value="email_validator" />
+          <option value="fastapi-cli" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httptools" />
+          <option value="httpx" />
+          <option value="Jinja2" />
+          <option value="Mako" />
+          <option value="markdown-it-py" />
+          <option value="MarkupSafe" />
+          <option value="mdurl" />
+          <option value="psycopg" />
+          <option value="psycopg-binary" />
+          <option value="psycopg-pool" />
+          <option value="psycopg2-binary" />
+          <option value="pydantic-settings" />
+          <option value="Pygments" />
+          <option value="PyJWT" />
+          <option value="python-dotenv" />
+          <option value="python-multipart" />
+          <option value="PyYAML" />
+          <option value="rich" />
+          <option value="rich-toolkit" />
+          <option value="shellingham" />
+          <option value="SQLAlchemy" />
+          <option value="typer" />
+          <option value="uvicorn" />
+          <option value="uvloop" />
+          <option value="watchfiles" />
+          <option value="websockets" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E305" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
