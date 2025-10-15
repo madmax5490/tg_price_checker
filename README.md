@@ -89,3 +89,5 @@ Open your bot in Telegram and use /start, /menu, /status.
 
 ## License
 MIT (or your choice).
+
+solvit.space/projects/tg_bot_bitcoin
