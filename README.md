@@ -1,5 +1,5 @@
 # TG Price Checker
-
+Launch Telegram bot: https://t.me/btc_tracker1_bot
 A minimal Telegram bot that streams BTC/USDT price from Binance and sends updates to chat:
 - Only sends when the price changed by at least a configurable delta (USD)
 - And not more often than a configurable delay (minutes)
